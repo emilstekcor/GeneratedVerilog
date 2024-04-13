@@ -1,0 +1,4 @@
+add_files -fileset sim_1 -norecurse C:/Users/kyle/Documents/MATLAB/Examples/R2023b/comm/UsingHdlOptimizedRsEncoderdecoderLibraryBlockExample/C:/Users/kyle/Desktop/Convolutional test/Convolutional test.srcs/sources_1/new/commrshdl/Discrete.v
+add_files -fileset sim_1 -norecurse C:/Users/kyle/Documents/MATLAB/Examples/R2023b/comm/UsingHdlOptimizedRsEncoderdecoderLibraryBlockExample/C:/Users/kyle/Desktop/Convolutional test/Convolutional test.srcs/sources_1/new/commrshdl/Set_Reset_Flip_Flop.v
+add_files -fileset sim_1 -norecurse C:/Users/kyle/Documents/MATLAB/Examples/R2023b/comm/UsingHdlOptimizedRsEncoderdecoderLibraryBlockExample/C:/Users/kyle/Desktop/Convolutional test/Convolutional test.srcs/sources_1/new/commrshdl/Source.v
+add_files -fileset sim_1 -norecurse C:/Users/kyle/Documents/MATLAB/Examples/R2023b/comm/UsingHdlOptimizedRsEncoderdecoderLibraryBlockExample/C:/Users/kyle/Desktop/Convolutional test/Convolutional test.srcs/sources_1/new/commrshdl/Source_tb.v

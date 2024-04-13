@@ -1,0 +1,4 @@
+commrshdl/conv subsystem/LTE Convolutional Encoder1/Controller --> Controller
+commrshdl/conv subsystem/LTE Convolutional Encoder1/generatormatrix --> generatormatrix
+commrshdl/conv subsystem/LTE Convolutional Encoder1/SinglePortRAM_generic --> SinglePortRAM_generic
+commrshdl/conv subsystem/LTE Convolutional Encoder1 --> LTE_Convolutional_Encoder1

@@ -1,0 +1,12 @@
+commrshdl/conv subsystem/LTE Convolutional Encoder1/Controller --> Controller
+commrshdl/conv subsystem/LTE Convolutional Encoder1/GeneratorMatrix --> GeneratorMatrix
+commrshdl/conv subsystem/LTE Convolutional Encoder1/SinglePortRAM_generic --> SinglePortRAM_generic
+commrshdl/conv subsystem/LTE Convolutional Encoder1 --> LTE_Convolutional_Encoder1
+commrshdl/conv subsystem/Sample Control Bus Creator --> Sample_Control_Bus_Creator
+SimpleDualPortRAM_singlebit --> SimpleDualPortRAM_singlebit
+SinglePortRAM_generic --> SinglePortRAM_generic_block
+ --> ConvolutionalDecoderTracebackUnit
+ --> ConvolutionalDecoderMetricComputer
+ --> ConvolutionalDecoderMessageExtender
+commrshdl/conv subsystem/LTE Convolutional Decoder --> LTE_Convolutional_Decoder
+commrshdl/conv subsystem --> conv_subsystem
